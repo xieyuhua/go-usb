@@ -14,6 +14,7 @@ We access devices through karalabe/hid
 
 ## Install
 ```sh
+# git clone https://github.com/xieyuhua/go-usb.git
 # go build
 ```
 
