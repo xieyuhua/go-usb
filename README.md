@@ -1,6 +1,7 @@
 # GO usb relay
 
 GoLang implementation of usb-relay for control USB HID relay module.
+GoLang实现usb-relay，用于控制USB HCP中继模块。
 
 A driver for control usb relay module implement with Golang.
 We access devices through karalabe/hid
